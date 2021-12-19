@@ -5,10 +5,10 @@ Everything doing here is automated.
 ```
 htext-miner
 
-total: 1/10386 (0.009628345850182938%)
+total: 5/10386 (0.04814172925091469%)
 
 job0: 1
-job1: 0
+job1: 1
 job2: 0
 job3: 0
 job4: 0
@@ -23,8 +23,8 @@ job12: 0
 job13: 0
 job14: 0
 job15: 0
-job16: 0
-job17: 0
+job16: 1
+job17: 1
 job18: 0
-job19: 0
+job19: 1
 ```
